@@ -1,1 +1,1 @@
-# repos-igbinidu
+# igbinidu-altschool-assignment1
